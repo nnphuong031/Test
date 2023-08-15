@@ -1,2 +1,2 @@
 # Test
-Nguyen Nhu Phuong, ID: @nnphuong031 , student in @VAA. Print("Halo") .
+Nguyen Nhu Phuong, ID: @nnphuong031 , student in @VN. Print("Halo") .
